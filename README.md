@@ -1,15 +1,16 @@
-//dart dilinde bütün satırlar noktalı virgül ile biter
-/*Temel anlamda dört değişken tip vardır.
- * String ,int ,double ,bool */
-//int ve float değerler için Ekrana yazdırırken to.string() kullanmalıyız.
-void main() {
-  String name = "Hilal Öztemel";
-  int age=20;
-  double ratio=20.1;
-  bool login= false;
-  
-  print(" NAME : "+name);
-  print("  AGE : "+age.toString());
-  print("Ratio : "+ratio.toString());
-  print("Login : "+login.toString());
-}
+# deneme1
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
